@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid rgb(255, 255, 80);
+}
+
+header section div figure img{
+    width: 25%;
+
+}
+
+.frase{
+    color: rgb(227, 1, 1);
+    text-align: left;
+    margin-left: 1em;
+}
+
+.img-final{
+    width: 90%;
+    margin: 0;
+    margin-left: 3em;
+}
+
+footer section span{
+    color: white;
+    font-size: 10px;
+}
